@@ -61,7 +61,7 @@ Frontend (React Native)
 
 "bash
 CopyEdit
-git clone https://github.com/your-username/solar-energy-estimator.git
+git clone https://github.com/mr33q/solar-energy-estimator.git
 cd solar-energy-estimator/frontend
 npm install
 npm start
