@@ -109,13 +109,6 @@ Backend will be available at http://localhost:8080/api.
 
   c. Potential savings!
 
-## Screenshots
-
-
-Location Input	Estimation Result	Graph View
-
-(Optional — add your screenshots)
-
 
 
 # Future Improvements 
